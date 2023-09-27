@@ -1,1 +1,1 @@
-window.location.replace("http://www.w3schools.com");
+window.location.replace("https://youtube.com");
