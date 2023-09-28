@@ -1,0 +1,1 @@
+this is the world archives for most eagler craft worlds that i create. Donwload the EPK files and upload them to eaglercraft to change it the way you want. this will not effect the real world, and is used to use already created worlds to build a new one. DO NOT STEAL THESE WORLDS AND TAKE CREDIT. 
