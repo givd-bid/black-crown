@@ -1,0 +1,1 @@
+These worlds are completed and are for gallery. Nothing in the world can affect the real world, so we won't worry if you blow it up. If you would like to explore the world, it is recomended to use survival or adventure mode to explore them. Have fun!
