@@ -1,2 +1,1 @@
-hello whoever you are
-here is the files and code for securly disable and others
+Made by a stupid 6th grader who decided to find a way to play minecraft.
