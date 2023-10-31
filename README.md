@@ -2,4 +2,9 @@ RMS school files for minecraft(eaglercraft), and also securly destorying. I stol
 
 credits: EAGLERCRAFTARCHIVE, and others just read them on the README.md on each folder. files gathered by me lol
 
+REMEMBER TO CHECK OUT THE WATCHING GRASS GROW HTML!!!!
+Otherwise you should go to:
+https://watching-grass-grow.com/ 
+
+
 
