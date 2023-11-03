@@ -8,7 +8,7 @@ var html = `
     <button onclick = "func()">HHAHAHAHAHHAHAHAHAHHAHA</button>
     <script>
        function func() {
-            window.close()
+            window.close
             }
     </script>
   </div>
