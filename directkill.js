@@ -1,13 +1,13 @@
-// function to run the killer if confirmed
-function runCode() {
-    const elementsToRemove = document.querySelectorAll("div.head-top, div.wonderbar");
+// go to bookmarklets, thats whatcha want
+if (window.location.href.indexOf("securly") > -1) {
+const elementsToRemove = document.querySelectorAll("div.head-top, div.wonderbar");
 
-// define elements to remove
+
 elementsToRemove.forEach(function(element) {
   element.remove();
 });
 
-// make buttons and iframe
+
 const buttonsToRemove = document.querySelectorAll("button.slick-prev.slick-arrow.slick-disabled, button.slick-next.slick-arrow.slick, button.slick-prev.slick-arrow, button.slick-next.slick-arrow.slick-disabled");
 const coverIframe = document.createElement("iframe");
 coverIframe.style.position = "fixed";
@@ -18,6 +18,7 @@ coverIframe.style.height = "100%";
 coverIframe.style.border = "none";
 coverIframe.style.backgroundColor = "white"; 
 document.body.appendChild(coverIframe);
+
 const toggleButton = document.createElement("button");
 toggleButton.style.position = "fixed";
 toggleButton.style.top = "50%";
@@ -33,7 +34,7 @@ toggleButton.style.fontWeight = "bold";
 toggleButton.style.cursor = "pointer";
 toggleButton.textContent = "OFF";
 toggleButton.addEventListener("click", function() {
-// check if already killed and display button accordingly
+
   if (this.textContent === "OFF") {
     this.style.backgroundColor = "blue";
     this.textContent = "ON";
@@ -56,6 +57,9 @@ toggleButton.addEventListener("click", function() {
     this.textContent = "OFF";
   }
 });
-// attach buttons
+
 coverIframe.contentDocument.body.appendChild(toggleButton);
+} else {
+alert("you gotta be on securly.com");
+
 }
